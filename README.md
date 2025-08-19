@@ -1,1 +1,5 @@
 # El-fin-de-las-tasas-de-inter-s-cero-y-el-papel-de-la-tecnolog-a-financiera-
+En el futuro inmediato las finanzas se expondrán a nuevos mecanismos de identificación que impactará fuertemente en el sector en relación con el usuario. 
+El sector bancario atraviesa su transformación más trascendental, impulsada por avances en biometría, inteligencia artificial y dispositivos wearables. La era digital ya había realizado grandes cambios en la industria y esto pareciera no tener frenos. 
+Si bien los avances están a la vista, se especula que para el 2030 que la experiencia bancaria estará profundamente integrada en la vida cotidiana de los usuarios, eliminando las fricciones tradicionales en la autenticación inmediata, en las transacciones y la gestión financiera. 
+Los biopagos y los wearables financieros serán las herramientas excepcionales para este modelo, que impulsa el avance en cuanto a las interacciones en el sector.  Tal como lo indica  Fernando Boudourian, la relación con los clientes en la banca privada se transformó con la digitalización. De allí, sus innovaciones innovadoras. 
