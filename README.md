@@ -1,5 +1,3 @@
 # El-fin-de-las-tasas-de-interés-cero-y-el-papel-de-la-tecnología-financiera-
 Las medidas económicas dieron un giro al escenario financiero. Un punteo de cómo las tecnologías tomaron gran relevancia de apoyo.
 Por más de una década, el sector financiero mundial estuvo atravesado por la política de tasas de interés cero (ZIRP), puesta en marcha por bancos centrales como la Reserva Federal de EE. UU., el Banco Central Europeo y el Banco de Japón tras la crisis financiera de 2008.
-Con esta estrategia se buscaba impulsar el crecimiento económico y la inversión mediante el abaratamiento del crédito. Sin embargo, la combinación de una recuperación económica desigual, disrupciones en la cadena de suministro y presiones inflacionarias sin precedentes llevó a un drástico cambio de paradigma: el fin del ZIRP y el regreso de tasas de interés altas.
-En este nuevo escenario se visualizó un cambio en las dinámicas del sector financiero, impactando desde la valoración de activos hasta la accesibilidad al crédito, por lo que se enfrenta una reconfiguración que necesita la adaptación fintech.
